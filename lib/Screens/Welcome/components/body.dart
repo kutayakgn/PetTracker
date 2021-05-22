@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth/Screens/Login/login_screen.dart';
-import 'package:flutter_auth/Screens/Signup/signup_screen.dart';
-import 'package:flutter_auth/Screens/Welcome/components/background.dart';
-import 'package:flutter_auth/components/rounded_button.dart';
-import 'package:flutter_auth/constants.dart';
+import 'package:petTracker/Screens/Login/login_screen.dart';
+import 'package:petTracker/Screens/Signup/signup_screen.dart';
+import 'package:petTracker/Screens/Welcome/components/background.dart';
+import 'package:petTracker/components/rounded_button.dart';
+import 'package:petTracker/constants.dart';
 import 'package:flutter_svg/svg.dart';
 
 class Body extends StatelessWidget {
@@ -12,6 +12,7 @@ class Body extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
     // This size provide us total height and width of our screen
     return Background(
+
       child: SingleChildScrollView(
 
         child: Column(

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth/constants.dart';
+import 'package:petTracker/constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-
+///////TODO Silinecek social icon kullanmadık
 class SocalIcon extends StatelessWidget {
   final String iconSrc;
   final Function press;
