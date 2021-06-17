@@ -2,12 +2,12 @@
 
 A Flutter Project To Track Your Pet.
 
-+Food Tracker
++ Food Tracker
 
-+Vaccination calendar
++ Vaccination calendar
 
-+Pet Profile
++ Pet Profile
 
-+Medicine Prospectuses
++ Medicine Prospectuses
 
-+News About Pets
++ News About Pets
