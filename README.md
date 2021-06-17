@@ -6,7 +6,7 @@ A Flutter Project To Track Your Pet.
 
 +Vaccination calendar
 
-+ Pet Profile
++Pet Profile
 
 +Medicine Prospectuses
 
